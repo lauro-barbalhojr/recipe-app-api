@@ -1,9 +1,5 @@
 """
-<<<<<<< HEAD
-Test for models.
-=======
 Tests for models.
->>>>>>> 9c48f62c5a68919b04a906b7b0ac6292c23264d1
 """
 from django.test import TestCase
 from django.contrib.auth import get_user_model
